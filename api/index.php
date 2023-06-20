@@ -60,7 +60,7 @@
                 <h2>Isi Form</h2>
             </div>
             <div class="row p-md-5">
-                <form action="result.php" method="post">
+                <form action="api/result.php" method="post">
                     <div class="mb-3">
                         <label for="nama" class="form-label">Nama Lengkap</label>
                         <input type="text" class="form-control" id="nama" name="nama" aria-describedby="nama">
